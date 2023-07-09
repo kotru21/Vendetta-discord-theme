@@ -1,9 +1,9 @@
-# Kotikovtheme
+#Kotikovtheme
 Just purple theme for Vendetta discord client.
 
 ![header](https://github.com/kotru21/Vendetta-discord-theme/assets/88907641/183c8335-d4aa-4b10-a28c-ef1aa597e95c)
 
-# focused on productivity.
+#focused on productivity.
 Amoled style.
 
 ![features](https://github.com/kotru21/Vendetta-discord-theme/assets/88907641/02ad83dc-d433-4b1d-b46a-94755cb16251)
