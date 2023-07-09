@@ -9,11 +9,11 @@ Amoled style.
 ![features](https://github.com/kotru21/Vendetta-discord-theme/assets/88907641/02ad83dc-d433-4b1d-b46a-94755cb16251)
 <div align="center">
 Vendetta can be found <a href="https://github.com/vendetta-mod/Vendetta">here</a>
-&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;|&nbsp;
 <a href="https://kotikov.is-a.dev">My website</a>
-&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;|&nbsp;
 <a href="https://github.com/kotru21">My GitHub</a>
-&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;|&nbsp;
 Based on <a href="https://github.com/vorlie/VendettaThemes">this theme by vorlie</a>.
 </div>
 <hr>
