@@ -1,0 +1,76 @@
+{
+  "name": "Kotikovtheme",
+  "description": "Based on Purpdark V3, by @vve1",
+  "authors": [
+    {
+      "name": "@kotru21"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#9472D5"],
+    "HEADER_SECONDARY": ["#9472D5"],
+    "TEXT_NORMAL": ["#F3E8FF"],
+    "TEXT_MUTED": ["#5E5E5E"],
+    "TEXT_LINK": ["#C48EEE"],
+    "INTERACTIVE_NORMAL": ["#B599C5"],
+    "INTERACTIVE_HOVER": ["#B988BC"],
+    "INTERACTIVE_ACTIVE": ["#E1C5FD"],
+    "INTERACTIVE_MUTED": ["#5F5160"],
+    "BACKGROUND_PRIMARY": ["#0A0A0A"],
+    "BACKGROUND_SECONDARY": ["#222222"],
+    "BACKGROUND_SECONDARY_ALT": ["#222222"],
+    "BACKGROUND_TERTIARY": ["#0A0A0A"],
+    "BACKGROUND_ACCENT": ["#634A70"],
+    "BACKGROUND_FLOATING": ["#222222"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#222222"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#222222"],
+    "BACKGROUND_NESTED_FLOATING": ["#0A0A0A"],
+
+    "BACKGROUND_MESSAGE_HOVER": ["#0A0A0A"],
+    "BACKGROUND_MODIFIER_HOVER": ["#0A0A0A"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#67427D"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#67427D"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#484848"],
+    "SCROLLBAR_THIN_THUMB": ["#26273b"],
+    "SCROLLBAR_THIN_TRACK": ["transparent"],
+    "SCROLLBAR_AUTO_THUMB": ["#CAB3DA"],
+    "SCROLLBAR_AUTO_TRACK": ["#CAB3DA"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#242424"],
+    "CHANNELS_DEFAULT": ["#90769E"],
+    "TEXT_DANGER": ["#FC0E61"],
+    "KEYBOARD": ["#0A0A0A"],
+    "CHANNEL_ICON": ["#BEB3C6"],
+    "CHAT_BACKGROUND": ["#0A0A0A"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#4B4B4B"],
+    "SPOILER_REVEALED_BACKGROUND": ["#5E5E5E"]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#F2D8FD",
+    "PRIMARY_200": "#947592",
+    "PRIMARY_300": "#9472D5",
+    "PRIMARY_360": "#C272F0",
+    "PRIMARY_400": "#7114EE",
+    "PRIMARY_500": "#5F3A70",
+    "PRIMARY_600": "#0A0A0A",
+    "PRIMARY_630": "#2F2F2F",
+    "PRIMARY_660": "#2F2F2F",
+    "PRIMARY_700": "#0A0A0A",
+    "PRIMARY_800": "#0A0A0A",
+
+    "BRAND_260": "#866195",
+    "BRAND_360": "#BF96D0",
+    "BRAND_500": "#866195",
+    "BRAND_560": "#BF96D0",
+    "WHITE_500": "#E7C4FF",
+    "YELLOW_300": "#B569E0",
+    "GREEN_360": "#B569E0",
+    "RED_400": "#FC0E61"
+  },
+  "spec": 2,
+  "background": {
+    "blur": 0,
+    "url": "https://raw.githubusercontent.com/kotru21/Vendetta-discord-theme/main/theme_BG/background.jpg",
+    "alpha": 0.9,
+    "color": "#0A0A0A"
+  }
+}
